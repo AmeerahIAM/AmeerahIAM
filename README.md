@@ -7,5 +7,5 @@
   - [Group Assignments](https://github.com/AmeerahIAM/group-assign)
   - [Identity Lifecycle](https://github.com/AmeerahIAM/identity-lifecycle)
   - [Audit Logs](https://github.com/AmeerahIAM/audit-logs)
-  - [Sign-In Logs]()
+  - [Sign-In Logs](https://github.com/AmeerahIAM/sign-in-logs)
   - [Authentication]()
