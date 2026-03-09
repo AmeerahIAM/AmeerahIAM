@@ -6,6 +6,6 @@
   - [Role Assignments](https://github.com/AmeerahIAM/role-assignments-repository)
   - [Group Assignments](https://github.com/AmeerahIAM/group-assign)
   - [Identity Lifecycle](https://github.com/AmeerahIAM/identity-lifecycle)
-  - [Audit Logs]()
+  - [Audit Logs](https://github.com/AmeerahIAM/audit-logs)
   - [Sign-In Logs]()
   - [Authentication]()
