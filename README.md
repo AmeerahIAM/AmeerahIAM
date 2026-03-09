@@ -8,4 +8,4 @@
   - [Identity Lifecycle](https://github.com/AmeerahIAM/identity-lifecycle)
   - [Audit Logs](https://github.com/AmeerahIAM/audit-logs)
   - [Sign-In Logs](https://github.com/AmeerahIAM/sign-in-logs)
-  - [Authentication]()
+  - [Authentication](https://github.com/AmeerahIAM/authentication)
