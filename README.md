@@ -5,7 +5,7 @@
   - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahIAM/p2-licensing)
   - [Role Assignments](https://github.com/AmeerahIAM/role-assignments-repository)
   - [Group Assignments](https://github.com/AmeerahIAM/group-assign)
-  - [Identity Lifecycle]()
+  - [Identity Lifecycle](https://github.com/AmeerahIAM/identity-lifecycle)
   - [Audit Logs]()
   - [Sign-In Logs]()
   - [Authentication]()
