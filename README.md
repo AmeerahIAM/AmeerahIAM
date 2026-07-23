@@ -15,7 +15,7 @@
   - [Creating and Managing Local Users](https://github.com/AmeerahIAM/create-manage-users)
   - [Troubleshooting Network Connectivity](https://github.com/AmeerahIAM/troubleshoot-network-connect)
   - [Managing Windows Updates](https://github.com/AmeerahIAM/manage-windows-updates)
-  - [Software Installation]()
+  - [Software Installation](https://github.com/AmeerahIAM/software-installation)
   - [Print Queue]()
   - [Credential Manager and Cache]()
   - [PowerShell Fundamentals]()
