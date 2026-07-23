@@ -16,7 +16,7 @@
   - [Troubleshooting Network Connectivity](https://github.com/AmeerahIAM/troubleshoot-network-connect)
   - [Managing Windows Updates](https://github.com/AmeerahIAM/manage-windows-updates)
   - [Software Installation](https://github.com/AmeerahIAM/software-installation)
-  - [Print Queue]()
+  - [Print Queue](https://github.com/AmeerahIAM/print-queue)
   - [Credential Manager and Cache]()
   - [PowerShell Fundamentals]()
 
