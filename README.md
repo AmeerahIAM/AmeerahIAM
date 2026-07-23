@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ameerah, a Cybersecurity, IAM Azure Associate </a>☺</h1>
+<h1>Hi, I'm Ameerah, an IT Professional </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/AmeerahIAM/user-accounts)
@@ -10,4 +10,12 @@
   - [Sign-In Logs](https://github.com/AmeerahIAM/sign-in-logs)
   - [Authentication](https://github.com/AmeerahIAM/authentication)
 
-- <b>Microsoft Azure Entra ID</b>
+- <b>Deployment, Networking, Troubleshooting</b>
+  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+  - [Creating and Managing Local Users]()
+  - [Troubleshooting Network Connectivity]()
+  - [Managing Windows Updates]()
+  - [Software Installation]()
+  - [Print Queue]()
+  - [Credential Manager and Cache]()
+  - [PowerShell Fundamentals]()
