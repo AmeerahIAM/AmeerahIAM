@@ -19,3 +19,6 @@
   - [Print Queue]()
   - [Credential Manager and Cache]()
   - [PowerShell Fundamentals]()
+
+- <b>Ticketing System</b>
+  - [SpiceWorks Ticketing System]()
