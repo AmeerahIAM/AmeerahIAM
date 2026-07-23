@@ -13,7 +13,7 @@
 - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AmeerahIAM/createrg-deploy-vm-remote)
   - [Creating and Managing Local Users](https://github.com/AmeerahIAM/create-manage-users)
-  - [Troubleshooting Network Connectivity]()
+  - [Troubleshooting Network Connectivity](https://github.com/AmeerahIAM/troubleshoot-network-connect)
   - [Managing Windows Updates]()
   - [Software Installation]()
   - [Print Queue]()
