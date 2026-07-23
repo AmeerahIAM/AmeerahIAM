@@ -14,7 +14,7 @@
   - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AmeerahIAM/createrg-deploy-vm-remote)
   - [Creating and Managing Local Users](https://github.com/AmeerahIAM/create-manage-users)
   - [Troubleshooting Network Connectivity](https://github.com/AmeerahIAM/troubleshoot-network-connect)
-  - [Managing Windows Updates]()
+  - [Managing Windows Updates](https://github.com/AmeerahIAM/manage-windows-updates)
   - [Software Installation]()
   - [Print Queue]()
   - [Credential Manager and Cache]()
