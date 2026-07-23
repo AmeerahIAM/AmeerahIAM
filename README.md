@@ -11,7 +11,7 @@
   - [Authentication](https://github.com/AmeerahIAM/authentication)
 
 - <b>Deployment, Networking, Troubleshooting</b>
-  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AmeerahIAM/createrg-deploy-vm-remote)
   - [Creating and Managing Local Users]()
   - [Troubleshooting Network Connectivity]()
   - [Managing Windows Updates]()
