@@ -17,7 +17,7 @@
   - [Managing Windows Updates](https://github.com/AmeerahIAM/manage-windows-updates)
   - [Software Installation](https://github.com/AmeerahIAM/software-installation)
   - [Print Queue](https://github.com/AmeerahIAM/print-queue)
-  - [Credential Manager and Cache]()
+  - [Credential Manager and Cache](https://github.com/AmeerahIAM/credential-manager)
   - [PowerShell Fundamentals]()
 
 - <b>Ticketing System</b>
