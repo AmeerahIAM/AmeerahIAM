@@ -18,7 +18,7 @@
   - [Software Installation](https://github.com/AmeerahIAM/software-installation)
   - [Print Queue](https://github.com/AmeerahIAM/print-queue)
   - [Credential Manager and Cache](https://github.com/AmeerahIAM/credential-manager)
-  - [PowerShell Fundamentals](https://github.com/AmeerahIAM/powershell-fundamentals)
+  - [PowerShell](https://github.com/AmeerahIAM/powershell-fundamentals)
 
 - <b>Ticketing System</b>
   - [SpiceWorks Ticketing System](https://github.com/AmeerahIAM/spiceworks)
